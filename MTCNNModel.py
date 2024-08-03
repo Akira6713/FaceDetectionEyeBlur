@@ -88,17 +88,3 @@ def detect_and_blur_eyes(image_path, output_path):
         print(f"Error saving output image: {e}")
         return
 
-
-# Example usage
-detect_and_blur_eyes('input/Disney.jpg', 'MTCNN/Disney1.jpg')
-detect_and_blur_eyes('input/Disney2.jpg', 'MTCNN/Disney2.jpg')
-detect_and_blur_eyes('input/Disney3.jpg', 'MTCNN/Disney3.jpg')
-detect_and_blur_eyes('input/Fishing.jpg', 'MTCNN/Fishing.jpg')
-detect_and_blur_eyes('input/Fishing2.jpg', 'MTCNN/Fishing2.jpg')
-detect_and_blur_eyes('input/Fishing3.jpeg', 'MTCNN/Fishing3.jpg')
-detect_and_blur_eyes('input/Robot.jpg', 'MTCNN/Robot.jpg')
-detect_and_blur_eyes('input/Robot2.jpg', 'MTCNN/Robot2.jpg')
-detect_and_blur_eyes('input/Robot3.jpg', 'MTCNN/Robot3.jpg')
-detect_and_blur_eyes('input/Robot4.jpg', 'MTCNN/Robot4.jpg')
-detect_and_blur_eyes('input/Garden.jpg', 'MTCNN/Garden1.jpg')
-
