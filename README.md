@@ -22,9 +22,12 @@ This project utilizes an artificial intelligence algorithm for face detection an
 
 Below are some sample images processed by the algorithm. The original images are on the left, and the processed images with blurred eyes are on the right.
 
-![Disney Sample](output/MTCNN_Disney1.jpg)
-![Fishing Sample](output/MTCNN_Fishing.jpg)
-![Robot Sample](output/MTCNN_Robot.jpg)
+![Robot Sample](https://github.com/user-attachments/assets/415e3f4a-4dac-4f02-aa03-f4b85c0c2d99)
+![Robot Sample 2](https://github.com/user-attachments/assets/d9a5b11f-9224-4b1a-8910-51efbadb55d8)
+![Garden Sample](https://github.com/user-attachments/assets/8b2913c8-2301-4bfa-8058-4e7635e1acad)
+![Fishing Sample](https://github.com/user-attachments/assets/b7413278-c4b0-4196-882e-203e24875d68)
+![Disney Sample](https://github.com/user-attachments/assets/083e3260-2e8b-49a8-8051-968c1770a83a)
+![Disney Sample](https://github.com/user-attachments/assets/d9d22106-026f-4116-9245-32920889e2f8)
 
 ## Potential Applications
 
