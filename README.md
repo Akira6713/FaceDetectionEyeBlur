@@ -10,6 +10,14 @@ This project utilizes an artificial intelligence algorithm for face detection an
 - **Eye Blurring:** Anonymizes faces by blurring the eyes.
 - **Image Processing:** Includes preprocessing steps like histogram equalization, grayscale conversion, and Gaussian blurring to improve detection accuracy.
 
+## Requirements
+
+- Python 3.x
+- OpenCV
+- Numpy
+- MTCNN
+- TensorFlow
+
 ## Sample Images
 
 Below are some sample images processed by the algorithm. The original images are on the left, and the processed images with blurred eyes are on the right.
